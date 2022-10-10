@@ -31,4 +31,5 @@ Quick Fact about me: 𝓜𝔂 𝓦𝓸𝓻𝓵𝓭 𝓡𝓮𝓿𝓸𝓵𝓿𝓮�
     <img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=plastic&logo=facebook&logoColor=white" height=20></a>
   <a href="https://www.hackerrank.com/sd0040">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?&style=plastic&logo=HackerRank&logoColor=white" height=20></a>
+Mail ID:- sd0040@srmist.edu.in , saiksha8502@gmail.com
 </p>
