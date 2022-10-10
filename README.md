@@ -16,5 +16,7 @@ I am currently pursuing my Btech degree in computer science with specialisation 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saiksha8502&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+[![saiksha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=saiksha8502&theme=xcode)](https://github.com/saiksha8502)
+
 # 👀Views  
 ![](https://komarev.com/ghpvc/?username=saiksha8502&label=PROFILE+VIEWS)
