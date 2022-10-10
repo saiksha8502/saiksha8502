@@ -22,3 +22,13 @@ Quick Fact about me: 𝓜𝔂 𝓦𝓸𝓻𝓵𝓭 𝓡𝓮𝓿𝓸𝓵𝓿𝓮�
 
 # 👀Views  
 ![](https://komarev.com/ghpvc/?username=saiksha8502&label=PROFILE+VIEWS)
+
+<h1 align="center"> Find me on :-</h1>
+<p align="center">
+  <a href="https://www.instagram.com/_saiksha_/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white" height=20></a>
+  <a href="https://www.facebook.com/Saiksha Desai">
+    <img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=plastic&logo=facebook&logoColor=white" height=20></a>
+  <a href="https://www.hackerrank.com/sd0040">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?&style=plastic&logo=HackerRank&logoColor=white" height=20></a>
+</p>
