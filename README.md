@@ -1,4 +1,4 @@
-                                                  # Hi there 👋 Welcome to my Github Profile ✨
+# Hi there 👋 Welcome to my Github Profile ✨
 
 I am currently pursuing my Btech degree in computer science with specialisation in big data analytics at the SRMIST, KTR, Chennai, India. 
 
