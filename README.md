@@ -34,4 +34,4 @@ Quick Fact about me: 𝓜𝔂 𝓦𝓸𝓻𝓵𝓭 𝓡𝓮𝓿𝓸𝓵𝓿𝓮�
 Mail ID:- sd0040@srmist.edu.in , saiksha8502@gmail.com
 </p>
 
-![Snake animation](https://github.com/saiksha8502/saiksha8502/blob/output/github-contribution-grid-snake.svg)
+
