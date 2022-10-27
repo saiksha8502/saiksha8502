@@ -15,7 +15,10 @@ Quick Fact about me: 𝓜𝔂 𝓦𝓸𝓻𝓵𝓭 𝓡𝓮𝓿𝓸𝓵𝓿𝓮�
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saiksha8502&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saiksha8502&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)</br>
 
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saiksha8502&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+[![saiksha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=saiksha8502&theme=xcode)](https://github.com/saiksha8502)
 
 # 👀Views
 ![](https://komarev.com/ghpvc/?username=saiksha8502&label=PROFILE+VIEWS)
