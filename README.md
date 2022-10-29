@@ -23,8 +23,6 @@ Quick Fact about me: 𝓜𝔂 𝓦𝓸𝓻𝓵𝓭 𝓡𝓮𝓿𝓸𝓵𝓿𝓮�
 # 👀Views
 ![](https://komarev.com/ghpvc/?username=saiksha8502&label=PROFILE+VIEWS)
 
-![snake gif](https://github.com/saiksh8502/saiksha8502/blob/output/github-contribution-grid-snake.svg)
-
 <h1 align="center"> Find me on :-</h1>
 <p align="center">
   <a href="https://www.instagram.com/_saiksha_/">
