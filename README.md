@@ -20,6 +20,12 @@ Quick Fact about me: 𝓜𝔂 𝓦𝓸𝓻𝓵𝓭 𝓡𝓮𝓿𝓸𝓵𝓿𝓮�
 
 [![saiksha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=saiksha8502&theme=xcode)](https://github.com/saiksha8502)
 
+<p align="center">
+<a href="https://github.com/saiksha8502">
+  <img align="center" height="180em" src="https://activity-graph.herokuapp.com/graph?username=saiksha8502&theme=chartreuse-dark"/>
+</a>
+</p>
+
 # 👀Views
 ![](https://komarev.com/ghpvc/?username=saiksha8502&label=PROFILE+VIEWS)
 
