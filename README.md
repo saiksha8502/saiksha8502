@@ -23,7 +23,8 @@ Quick Fact about me: 𝓜𝔂 𝓦𝓸𝓻𝓵𝓭 𝓡𝓮𝓿𝓸𝓵𝓿𝓮�
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saiksha8502&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-[![saiksha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=saiksha8502&theme=xcode)](https://github.com/saiksha8502)
+![Saiksha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=saiksha8502&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
+
 
 # 👀Views
 ![](https://komarev.com/ghpvc/?username=saiksha8502&label=PROFILE+VIEWS)
